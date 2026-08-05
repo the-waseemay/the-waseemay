@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20WASEEM%20AHAMED%20A%20J&fontSize=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer&descColor=8AFF57&animation=fadeIn" />
+  
 </div>
 
 <!-- Typing SVG Tagline -->
