@@ -5,7 +5,6 @@
 
 <!-- Typing SVG Tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$+whoami+→+AI+and+Data+Science+Student;+$+skills+→+Python+Developer;+$+learning+→+Cybersecurity+and+Web+Development;+$+focus+→+Ethical+Hacking+and+Automation" />
 </div>
 
 <!-- Views & Activity Quick Badges -->
@@ -77,7 +76,7 @@ building:
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=the-waseemay&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="GitHub Stats" />
+        <img height="170" src="https://nexora-navy-alpha.vercel.app/" alt="GitHub Stats" />
       </td>
       <td align="center" valign="top">
         <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=the-waseemay&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" alt="GitHub Streak" />
@@ -91,12 +90,7 @@ building:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-waseemay&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=the-waseemay&theme=matrix&no-frame=true&column=7" alt="Trophies" />
-</div>
 
----
 
 ## `> cat contribution-snake.gif`
 
